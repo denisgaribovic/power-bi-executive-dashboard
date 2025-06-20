@@ -1,8 +1,10 @@
+![alt text](https://github.com/denisgaribovic/power-bi-executive-dashboard/blob/main/Banner.png)
+
 # 📊 Superstore Executive Dashboard – Power BI Self-Service Analytics
 
-This project showcases an interactive **self-service Power BI dashboard** built using the [Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final). It is designed to empower business stakeholders with **instant insights** into key performance metrics, while also enabling **deep dives** into individual orders to identify growth and optimization opportunities.
+This project showcases an interactive **self-service Power BI dashboard** built using the [Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), a popular retail dataset containing sales, profit, quantity, customer, and order-level information across multiple US regions. 
 
-![Executive Dashboard Screenshot](1.png)
+It is designed to empower business stakeholders with **instant insights** into key performance metrics, while also enabling **deep dives** into individual orders to identify growth and optimization opportunities.
 
 ## 🧠 Project Overview
 
@@ -38,7 +40,8 @@ This project addresses those needs by delivering:
 
 ## 📁 Files Included
 
-- `Superstore Executive Dashboard.pbix` – Power BI report file  
+- `Superstore_Executive_Dashboard.pbix` – Power BI report file
+- `Superstore_Data.csv` – Dataset  
 
 ## 📊 Tools & Technologies
 
@@ -46,11 +49,6 @@ This project addresses those needs by delivering:
 - DAX  
 - Kaggle Superstore Dataset  
 - Data Modeling & Visualization Best Practices  
-
-## 🗂 Dataset Source
-
-- [Kaggle - Superstore Dataset (Final)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-  A popular retail dataset containing sales, profit, quantity, customer, and order-level information across multiple US regions.
 
 ## 🔍 Key Learnings
 
